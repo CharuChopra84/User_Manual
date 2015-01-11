@@ -1,0 +1,41 @@
+\documentclass[12pt]{article}
+\usepackage[print,nopanel]{pdfscreen}
+\begin{print}
+\usepackage{lastpage}
+\usepackage{macro/macro}
+
+\usepackage{fancyhdr}
+\usepackage{verbatim}
+\lhead{\large\bfseries eCAD}
+\usepackage[left=2.5cm, right=1.5cm, top=1.5cm, bottom=1.5cm]{geometry}
+\pagestyle{fancy}
+\end{print}
+\margins{.5cm}{.5cm}{.5cm}{.5cm}
+\begin{screen}
+\renewcommand{\encodingdefault}{T1}
+\usepackage{setspace}
+\linespread{1.5}
+\renewcommand{\rmdefault}{ptm}
+\end{screen}
+\screensize{8cm}{9cm}
+\overlay{overlay8.pdf}
+\usepackage{graphicx}
+
+\begin{document}
+\begin{screen}
+\ppttitle
+\end{screen}
+\footskip 0.7cm
+\newpage
+
+
+\newpage
+\section{Introduction}
+\input{input/Introduction.tex}
+\newpage
+\section{Installation}
+\input{input/Installation.tex}
+\newpage
+\section{Interface}
+\input{input/Interface.tex}
+\end{document}

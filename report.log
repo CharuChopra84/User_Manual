@@ -1,0 +1,795 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.8.22)  11 JAN 2015 08:30
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**report.tex
+(./report.tex
+LaTeX2e <2011/06/27>
+Babel <3.9h> and hyphenation patterns for 78 languages loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pdfscreen/pdfscreen.sty
+Package: pdfscreen 2000/07/07 v.1.5 screen PDF design (CVR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count88
+\calc@Bcount=\count89
+\calc@Adimen=\dimen105
+\calc@Bdimen=\dimen106
+\calc@Askip=\skip43
+\calc@Bskip=\skip44
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count90
+\calc@Cskip=\skip45
+)
+(/usr/share/texlive/texmf-dist/tex/latex/comment/comment.sty
+\CommentStream=\write3
+
+Excluding comment 'comment')
+\c@panel=\count91
+\c@driver=\count92
+\c@scheme=\count93
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks15
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen107
+\Hy@linkcounter=\count94
+\Hy@pagecounter=\count95
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count96
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4319.
+Package hyperref Info: Option `colorlinks' set `true' on input line 4319.
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count97
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen108
+\Fld@menulength=\count98
+\Field@Width=\dimen109
+\Fld@charsize=\dimen110
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring ON on input line 6313.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count99
+\c@Item=\count100
+\c@Hfootnote=\count101
+)
+
+Package hyperref Message: Driver: hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count102
+\c@bookmark@seq@number=\count103
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip46
+)
+Include comment 'print' Excluding comment 'screen'
+(/usr/share/texlive/texmf-dist/tex/latex/fancybox/fancybox.sty
+Package: fancybox 2010/05/15 1.4
+
+Style option: `fancybox' v1.4 <2010/05/15> (tvz)
+\@fancybox=\box26
+\shadowsize=\dimen111
+\@Sbox=\box27
+\do@VerbBox=\toks16
+\the@fancyput=\toks17
+\this@fancyput=\toks18
+\EndVerbatimTokens=\toks19
+\Verbatim@Outfile=\write4
+\Verbatim@Infile=\read1
+)
+\@PDFmpht=\dimen112
+\c@slide=\count104
+\c@slideoverlay=\count105
+) Including 'print' comment.
+\openout3 = `comment.cut'.
+
+ Straight input of comment.cut. (./comment.cut
+(/usr/share/texlive/texmf-dist/tex/latex/lastpage/lastpage.sty
+Package: lastpage 2013/01/28 v1.2l Refers to last page's name (HMM; JPG)
+)
+(./macro/macro.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip47
+\f@ncyO@elh=\skip48
+\f@ncyO@erh=\skip49
+\f@ncyO@olh=\skip50
+\f@ncyO@orh=\skip51
+\f@ncyO@elf=\skip52
+\f@ncyO@erf=\skip53
+\f@ncyO@olf=\skip54
+\f@ncyO@orf=\skip55
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks20
+\verbatim@line=\toks21
+\verbatim@in@stream=\read2
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+\Gm@cnth=\count106
+\Gm@cntv=\count107
+\c@Gm@tempcnt=\count108
+\Gm@bindingoffset=\dimen113
+\Gm@wd@mp=\dimen114
+\Gm@odd@mp=\dimen115
+\Gm@even@mp=\dimen116
+\Gm@layoutwidth=\dimen117
+\Gm@layoutheight=\dimen118
+\Gm@layouthoffset=\dimen119
+\Gm@layoutvoffset=\dimen120
+\Gm@dimlist=\toks22
+))
+Excluding 'screen' comment. (./report.aux)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count109
+\scratchdimen=\dimen121
+\scratchbox=\box28
+\nofMPsegments=\count110
+\nofMParguments=\count111
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count112
+\MPscratchDim=\dimen122
+\MPnumerator=\count113
+\makeMPintoPDFobject=\count114
+\everyMPtoPDFconversion=\toks24
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\AtBeginShipoutBox=\box29
+Package hyperref Info: Link coloring ON on input line 24.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count115
+)
+LaTeX Info: Redefining \ref on input line 24.
+LaTeX Info: Redefining \pageref on input line 24.
+LaTeX Info: Redefining \nameref on input line 24.
+
+(./report.out) (./report.out)
+\@outlinefile=\write5
+\openout5 = `report.out'.
+
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             http://www.ctan.org/tex-archive/ 
+(lastpage)             macros/latex/contrib/pageslts/ 
+(lastpage)             or
+(lastpage)             http://www.ctan.org/tex-archive/ 
+(lastpage)             install/macros/latex/contrib/pageslts.tds.zip
+(lastpage)             ! on input line 24.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 500.484pt, 42.67912pt)
+* v-part:(T,H,B)=(42.67912pt, 709.61174pt, 42.67912pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=500.484pt
+* \textheight=709.61174pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-66.59087pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Excluding 'screen' comment. (./input/Introduction.tex
+<images/logo.png, id=52, 219.0pt x 127.02pt>
+File: images/logo.png Graphic file (type png)
+ <use images/logo.png>
+Package pdftex.def Info: images/logo.png used on input line 4.
+(pdftex.def)             Requested size: 350.33727pt x 203.22256pt.
+Missing character: There is no Ô in font cmr12!
+Missing character: There is no ¨ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--21
+
+ []
+
+<images/gpl.jpg, id=54, 192.72pt x 77.28876pt>
+File: images/gpl.jpg Graphic file (type jpg)
+ <use images/gpl.jpg>
+Package pdftex.def Info: images/gpl.jpg used on input line 25.
+(pdftex.def)             Requested size: 350.33727pt x 140.49945pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--42
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 18.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+ <./images/logo.png>]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 43.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 43.
+Missing character: There is no Ô in font cmr12!
+Missing character: There is no ¨ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no Ô in font cmr12!
+Missing character: There is no ¨ in font cmr12!
+Missing character: There is no Å in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no Ô in font cmr12!
+Missing character: There is no ¨ in font cmr12!
+Missing character: There is no Å in font cmr12!
+Missing character: There is no Ô in font cmr12!
+Missing character: There is no ¨ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--60
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--60
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--60
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--60
+
+ []
+
+)
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 18.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[2 <./images/gpl.jpg>] (./input/Installation.tex
+Missing character: There is no Ô in font cmr12!
+Missing character: There is no ¨ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+
+Overfull \hbox (9.58858pt too wide) in paragraph at lines 9--10
+[]\OT1/cmr/m/n/12 Download zip folder of eCAD or clone it from https://github.c
+om/GreatDevelopers/eCAD 
+ []
+
+
+Overfull \hbox (16.0727pt too wide) in paragraph at lines 22--23
+[]\OT1/cmr/bx/n/12 Downloading\OT1/cmr/m/n/12 : Down-load zip folder of eCAD fr
+om https://github.com/GreatDevelopers/eCAD 
+ []
+
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ò in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+)
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 18.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[3] (./input/Interface.tex
+<images/menubar.png, id=79, 1368.11125pt x 53.19875pt>
+File: images/menubar.png Graphic file (type png)
+
+<use images/menubar.png>
+Package pdftex.def Info: images/menubar.png used on input line 5.
+(pdftex.def)             Requested size: 450.43253pt x 17.51505pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 18.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[4 <./images/menubar.png>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 18.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[5] <images/toolbar.png, id=99, 1366.10374pt x 39.14626pt>
+File: images/toolbar.png Graphic file (type png)
+
+<use images/toolbar.png>
+Package pdftex.def Info: images/toolbar.png used on input line 86.
+(pdftex.def)             Requested size: 450.43253pt x 12.90694pt.
+ <images/newDrawing.jpg, id=100, 160.6pt x 160.6pt>
+File: images/newDrawing.jpg Graphic file (type jpg)
+
+<use images/newDrawing.jpg>
+Package pdftex.def Info: images/newDrawing.jpg used on input line 93.
+(pdftex.def)             Requested size: 25.02573pt x 25.02507pt.
+
+<images/openDrawing.jpg, id=101, 160.6pt x 160.6pt>
+File: images/openDrawing.jpg Graphic file (type jpg)
+
+<use images/openDrawing.jpg>
+Package pdftex.def Info: images/openDrawing.jpg used on input line 97.
+(pdftex.def)             Requested size: 25.02573pt x 25.02507pt.
+
+<images/saveDrawing.jpg, id=102, 160.6pt x 160.6pt>
+File: images/saveDrawing.jpg Graphic file (type jpg)
+
+<use images/saveDrawing.jpg>
+Package pdftex.def Info: images/saveDrawing.jpg used on input line 101.
+(pdftex.def)             Requested size: 25.02573pt x 25.02507pt.
+ <images/cut.jpg, id=103, 160.6pt x 160.6pt>
+File: images/cut.jpg Graphic file (type jpg)
+
+<use images/cut.jpg>
+Package pdftex.def Info: images/cut.jpg used on input line 105.
+(pdftex.def)             Requested size: 25.02573pt x 25.02507pt.
+ <images/copy.jpg, id=104, 160.6pt x 160.6pt>
+File: images/copy.jpg Graphic file (type jpg)
+
+<use images/copy.jpg>
+Package pdftex.def Info: images/copy.jpg used on input line 109.
+(pdftex.def)             Requested size: 25.02573pt x 25.02507pt.
+ <images/paste.jpg, id=105, 160.6pt x 160.6pt>
+File: images/paste.jpg Graphic file (type jpg)
+
+<use images/paste.jpg>
+Package pdftex.def Info: images/paste.jpg used on input line 113.
+(pdftex.def)             Requested size: 25.02573pt x 25.02507pt.
+ <images/undo.jpg, id=106, 160.6pt x 160.6pt>
+File: images/undo.jpg Graphic file (type jpg)
+
+<use images/undo.jpg>
+Package pdftex.def Info: images/undo.jpg used on input line 117.
+(pdftex.def)             Requested size: 25.02573pt x 25.02507pt.
+ <images/redo.jpg, id=107, 160.6pt x 160.6pt>
+File: images/redo.jpg Graphic file (type jpg)
+
+<use images/redo.jpg>
+Package pdftex.def Info: images/redo.jpg used on input line 121.
+(pdftex.def)             Requested size: 25.02573pt x 25.02507pt.
+ <images/point.jpg, id=108, 160.6pt x 160.6pt>
+File: images/point.jpg Graphic file (type jpg)
+
+<use images/point.jpg>
+Package pdftex.def Info: images/point.jpg used on input line 126.
+(pdftex.def)             Requested size: 25.02573pt x 25.02507pt.
+ <images/line.jpg, id=109, 160.6pt x 160.6pt>
+File: images/line.jpg Graphic file (type jpg)
+
+<use images/line.jpg>
+Package pdftex.def Info: images/line.jpg used on input line 130.
+(pdftex.def)             Requested size: 25.02573pt x 25.02507pt.
+ <images/circle.jpg, id=110, 160.6pt x 160.6pt>
+File: images/circle.jpg Graphic file (type jpg)
+
+<use images/circle.jpg>
+Package pdftex.def Info: images/circle.jpg used on input line 134.
+(pdftex.def)             Requested size: 25.02573pt x 25.02507pt.
+ <images/ellipse.jpg, id=111, 160.6pt x 160.6pt>
+File: images/ellipse.jpg Graphic file (type jpg)
+
+<use images/ellipse.jpg>
+Package pdftex.def Info: images/ellipse.jpg used on input line 138.
+(pdftex.def)             Requested size: 25.02573pt x 25.02507pt.
+ <images/arc.jpg, id=112, 160.6pt x 160.6pt>
+File: images/arc.jpg Graphic file (type jpg)
+
+<use images/arc.jpg>
+Package pdftex.def Info: images/arc.jpg used on input line 142.
+(pdftex.def)             Requested size: 25.02573pt x 25.02507pt.
+ <images/text.jpg, id=113, 160.6pt x 160.6pt>
+File: images/text.jpg Graphic file (type jpg)
+
+<use images/text.jpg>
+Package pdftex.def Info: images/text.jpg used on input line 146.
+(pdftex.def)             Requested size: 25.02573pt x 25.02507pt.
+ <images/image.jpg, id=114, 160.6pt x 160.6pt>
+File: images/image.jpg Graphic file (type jpg)
+
+<use images/image.jpg>
+Package pdftex.def Info: images/image.jpg used on input line 150.
+(pdftex.def)             Requested size: 25.02573pt x 25.02507pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 18.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[6 <./images/toolbar.png> <./images/newDrawing.jpg> <./images/openDrawing.jpg> 
+<./images/saveDrawing.jpg> <./images/cut.jpg> <./images/copy.jpg> <./images/pas
+te.jpg> <./images/undo.jpg> <./images/redo.jpg> <./images/point.jpg> <./images/
+line.jpg>] <images/drawingarea.png, id=123, 1371.1225pt x 770.88pt>
+File: images/drawingarea.png Graphic file (type png)
+
+<use images/drawingarea.png>
+Package pdftex.def Info: images/drawingarea.png used on input line 158.
+(pdftex.def)             Requested size: 450.43253pt x 253.23845pt.
+
+<images/scriptingconsole.png, id=124, 237.88875pt x 335.2525pt>
+File: images/scriptingconsole.png Graphic file (type png)
+
+<use images/scriptingconsole.png>
+Package pdftex.def Info: images/scriptingconsole.png used on input line 165.
+(pdftex.def)             Requested size: 200.19054pt x 282.13707pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/document.jpg, id=125, 6.424pt x 6.424pt>
+File: images/document.jpg Graphic file (type jpg)
+ <use images/document.jpg>
+Package pdftex.def Info: images/document.jpg used on input line 170.
+(pdftex.def)             Requested size: 25.02573pt x 25.02617pt.
+
+<images/browser.jpg, id=126, 6.424pt x 6.424pt>
+File: images/browser.jpg Graphic file (type jpg)
+ <use images/browser.jpg>
+Package pdftex.def Info: images/browser.jpg used on input line 174.
+(pdftex.def)             Requested size: 25.02573pt x 25.02617pt.
+
+<images/task.jpg, id=127, 6.424pt x 6.424pt>
+File: images/task.jpg Graphic file (type jpg)
+ <use images/task.jpg>
+Package pdftex.def Info: images/task.jpg used on input line 178.
+(pdftex.def)             Requested size: 25.02573pt x 25.02617pt.
+
+<images/loop-circular.jpg, id=128, 6.424pt x 6.424pt>
+File: images/loop-circular.jpg Graphic file (type jpg)
+
+<use images/loop-circular.jpg>
+Package pdftex.def Info: images/loop-circular.jpg used on input line 182.
+(pdftex.def)             Requested size: 25.02573pt x 25.02617pt.
+
+<images/play-circle.jpg, id=129, 6.424pt x 6.424pt>
+File: images/play-circle.jpg Graphic file (type jpg)
+
+<use images/play-circle.jpg>
+Package pdftex.def Info: images/play-circle.jpg used on input line 186.
+(pdftex.def)             Requested size: 25.02573pt x 25.02617pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 18.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[7 <./images/circle.jpg> <./images/ellipse.jpg> <./images/arc.jpg> <./images/te
+xt.jpg> <./images/image.jpg> <./images/drawingarea.png>]
+<images/statusbar.png, id=137, 1370.11874pt x 19.07124pt>
+File: images/statusbar.png Graphic file (type png)
+
+<use images/statusbar.png>
+Package pdftex.def Info: images/statusbar.png used on input line 193.
+(pdftex.def)             Requested size: 450.43253pt x 6.26965pt.
+) 
+AED: lastpage setting LastPage
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 18.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[8 <./images/scriptingconsole.png> <./images/document.jpg> <./images/browser.jp
+g> <./images/task.jpg> <./images/loop-circular.jpg> <./images/play-circle.jpg> 
+<./images/statusbar.png>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 41.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 41.
+ (./report.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 41.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 41.
+Package rerunfilecheck Info: File `report.out' has not changed.
+(rerunfilecheck)             Checksum: 8EE32275F2B4DA452378951585A9A20B;663.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 41.
+ ) 
+Here is how much of TeX's memory you used:
+ 6692 strings out of 493304
+ 97366 string characters out of 6139871
+ 186685 words of memory out of 5000000
+ 10016 multiletter control sequences out of 15000+600000
+ 6065 words of font info for 22 fonts, out of 8000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 36i,11n,44p,392b,468s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on report.pdf (8 pages, 220308 bytes).
+PDF statistics:
+ 175 PDF objects out of 1000 (max. 8388607)
+ 126 compressed objects within 2 object streams
+ 43 named destinations out of 1000 (max. 500000)
+ 232 words of extra memory for PDF output out of 10000 (max. 10000000)
+

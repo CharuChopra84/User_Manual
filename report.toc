@@ -1,0 +1,59 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}
+\contentsline {subsection}{\numberline {1.1}What is eCAD?}{1}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}License}{2}{subsection.1.2}
+\contentsline {section}{\numberline {2}Installation}{4}{section.2}
+\contentsline {subsection}{\numberline {2.1}For Linux}{4}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}For Windows}{4}{subsection.2.2}
+\contentsline {section}{\numberline {3}Django}{5}{section.3}
+\contentsline {subsection}{\numberline {3.1}Introduction to Django}{5}{subsection.3.1}
+\contentsline {subsubsection}{\numberline {3.1.1}Installation of Django}{5}{subsubsection.3.1.1}
+\contentsline {subsubsection}{\numberline {3.1.2}MTV}{6}{subsubsection.3.1.2}
+\contentsline {subsubsection}{\numberline {3.1.3}Creating Project in Django}{6}{subsubsection.3.1.3}
+\contentsline {subsubsection}{\numberline {3.1.4}Development Server in Django}{6}{subsubsection.3.1.4}
+\contentsline {subsubsection}{\numberline {3.1.5}Database setup}{7}{subsubsection.3.1.5}
+\contentsline {subsubsection}{\numberline {3.1.6}Django Applications used :}{8}{subsubsection.3.1.6}
+\contentsline {section}{\numberline {4}Python}{10}{section.4}
+\contentsline {section}{\numberline {5}\LaTeX }{11}{section.5}
+\contentsline {subsection}{\numberline {5.1}Introduction to \LaTeX }{11}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Typesetting}{11}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}Installing \LaTeX {} on System}{12}{subsection.5.3}
+\contentsline {subsection}{\numberline {5.4}Graphical Editors for \LaTeX {}}{13}{subsection.5.4}
+\contentsline {subsection}{\numberline {5.5}Making Graphics in \LaTeX {}}{13}{subsection.5.5}
+\contentsline {subsection}{\numberline {5.6}Pdfscreen \LaTeX {}}{15}{subsection.5.6}
+\contentsline {subsection}{\numberline {5.7}Web based graphic generation using \LaTeX {}}{16}{subsection.5.7}
+\contentsline {section}{\numberline {6}Introduction to PHP}{17}{section.6}
+\contentsline {subsection}{\numberline {6.1}Overview}{17}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Colon Syntax}{18}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}Data types}{19}{subsection.6.3}
+\contentsline {subsection}{\numberline {6.4}Functions}{19}{subsection.6.4}
+\contentsline {section}{\numberline {7}Introduction to MySQL}{20}{section.7}
+\contentsline {subsection}{\numberline {7.1}Queries}{20}{subsection.7.1}
+\contentsline {subsection}{\numberline {7.2}Create a Connection to a MySQL Database}{20}{subsection.7.2}
+\contentsline {subsection}{\numberline {7.3}Closing a Connection}{21}{subsection.7.3}
+\contentsline {section}{\numberline {8}Project Work}{22}{section.8}
+\contentsline {subsection}{\numberline {8.1}Feasibility Study}{22}{subsection.8.1}
+\contentsline {subsection}{\numberline {8.2}System Design}{22}{subsection.8.2}
+\contentsline {subsection}{\numberline {8.3}Implementation Of Project}{23}{subsection.8.3}
+\contentsline {subsubsection}{\numberline {8.3.1}Fetching of data from the database}{23}{subsubsection.8.3.1}
+\contentsline {subsubsection}{\numberline {8.3.2}Typesetting of data}{25}{subsubsection.8.3.2}
+\contentsline {subsubsection}{\numberline {8.3.3}Creating a DVI file}{26}{subsubsection.8.3.3}
+\contentsline {subsubsection}{\numberline {8.3.4}Creating a postscript file}{26}{subsubsection.8.3.4}
+\contentsline {subsubsection}{\numberline {8.3.5}Use In Printing}{26}{subsubsection.8.3.5}
+\contentsline {subsubsection}{\numberline {8.3.6}Creating a PDF file}{27}{subsubsection.8.3.6}
+\contentsline {subsubsection}{\numberline {8.3.7}Imposition of the pdf}{27}{subsubsection.8.3.7}
+\contentsline {subsubsection}{\numberline {8.3.8}Color separation of the pdf}{30}{subsubsection.8.3.8}
+\contentsline {subsubsection}{\numberline {8.3.9}RGB}{30}{subsubsection.8.3.9}
+\contentsline {subsubsection}{\numberline {8.3.10}CMYK}{30}{subsubsection.8.3.10}
+\contentsline {subsubsection}{\numberline {8.3.11}RGB to CMYK}{31}{subsubsection.8.3.11}
+\contentsline {subsection}{\numberline {8.4}Evaluation and Maintenance}{33}{subsection.8.4}
+\contentsline {subsection}{\numberline {8.5}RGB To CMYK Example :-}{35}{subsection.8.5}
+\contentsline {section}{\numberline {9}Results and Discussions}{36}{section.9}
+\contentsline {section}{\numberline {10}Conclusion and Future Scope}{37}{section.10}
+\contentsline {subsection}{\numberline {10.1}Conclusion}{37}{subsection.10.1}
+\contentsline {subsection}{\numberline {10.2}Current status}{37}{subsection.10.2}
+\contentsline {subsection}{\numberline {10.3}Scope}{37}{subsection.10.3}
+\contentsline {section}{\numberline {11}Coding}{39}{section.11}
+\contentsline {subsection}{\numberline {11.1}}{39}{subsection.11.1}
+\contentsline {subsection}{\numberline {11.2}PHP coding}{39}{subsection.11.2}
+\contentsline {subsection}{\numberline {11.3}Main \LaTeX {} Code}{45}{subsection.11.3}
+\contentsline {section}{\numberline {12}Bibliography}{47}{section.12}
