@@ -41,7 +41,4 @@
 \newpage
 \section{CAD documents}
 \input{input/documents.tex}
-\newpage
-\section{Creating Entities}
-\input{input/entities.tex}
 \end{document}
