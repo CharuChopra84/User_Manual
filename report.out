@@ -29,3 +29,10 @@
 \BOOKMARK [1][]{section.8}{Actions in eCAD}{}% 29
 \BOOKMARK [2][]{subsection.8.1}{Panning and Zooming}{section.8}% 30
 \BOOKMARK [2][]{subsection.8.2}{Toggling Visibility}{section.8}% 31
+\BOOKMARK [1][]{section.9}{Scripting}{}% 32
+\BOOKMARK [2][]{subsection.9.1}{Point}{section.9}% 33
+\BOOKMARK [2][]{subsection.9.2}{Line}{section.9}% 34
+\BOOKMARK [2][]{subsection.9.3}{Circle}{section.9}% 35
+\BOOKMARK [2][]{subsection.9.4}{Ellipse}{section.9}% 36
+\BOOKMARK [2][]{subsection.9.5}{Arc}{section.9}% 37
+\BOOKMARK [2][]{subsection.9.6}{Text}{section.9}% 38

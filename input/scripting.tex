@@ -1,0 +1,26 @@
+A script is a macro, a list of commands that you can run all at once, and as many times as necessary, allowing you to automate tasks that would take a long time if you did them manually. Scripts can be very powerful and you can run them on  objects in one drawing, or on many drawings. Scripts have been around for many years and many people have a library of many scripts that they use.\\
+\begin{itemize}
+\item First step for scripting is to create a script file. Click on new icon in scripting console
+\item A dialog box will open save that file with .js extention
+\item Start writing the script 
+\item After writing the script click on execute icon. This will create a drawing in the drawing  area. 
+\end{itemize}
+There are various commands for each entity. Different commands for different entities. They are almost similar difference is in the parameters which we have to pass for scripting. Let's discuss each command in detail.
+\subsection{Point}
+To create a point type cad.point(x coordinate, y coordinate).\\
+For example cad.point(500,300). Then execute it a point will be made.
+\subsection{Line}
+To create a line cad.line(start x coordinate, start y coordinate, end x coordinate, end y coordinate).\\
+For example cad.line(150,100,200,210);
+\subsection{Circle}
+To create an arc cad.circle(center x coordinate, center y coordinate, radius).\\
+For example cad.circle(50,50,30);
+\subsection{Ellipse}
+To create an ellipse cad.ellipse(center x coordinate, center y coordinate, major radius, minor radius).\\
+For example cad.ellipse(50,50,60,30);
+\subsection{Arc}
+To create an arc cad.arc(start x coordinate, start y coordinate, end x coordinate, end y coordinate).\\
+For example cad.arc(120,130,233,321,456,546);
+\subsection{Text}
+To create text cad.text(start x coordinate, start y coordinate, text)\\
+For example cad.text(420,520,”hello”);
