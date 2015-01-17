@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.8.22)  14 JAN 2015 14:00
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.8.21)  17 JAN 2015 22:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -382,43 +382,25 @@ Package lastpage Info: Please have a look at the pageslts package at
 
 (./input/titlepage.tex) Excluding 'screen' comment. [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./report.toc
-LaTeX Font Info:    Try loading font information for U+msa on input line 2.
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 2.
+Package hyperref Warning: old toc file detected, not used; run LaTeX again.
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 18.0pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[1])
 \tf@toc=\write6
 \openout6 = `report.toc'.
 
 
-
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 18.0pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[2] (./input/Introduction.tex <images/logo.png, id=282, 2417.76pt x 1401.6pt>
+[1] (./input/Introduction.tex <images/logo.png, id=17, 2417.76pt x 1401.6pt>
 File: images/logo.png Graphic file (type png)
 
 <use images/logo.png>
 Package pdftex.def Info: images/logo.png used on input line 4.
 (pdftex.def)             Requested size: 250.24199pt x 145.06575pt.
-Missing character: There is no Ô in font cmr12!
-Missing character: There is no ¨ in font cmr12!
-Missing character: There is no Ä in font cmr12!
 
 Underfull \hbox (badness 10000) in paragraph at lines 7--21
 
@@ -434,7 +416,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--21
 
  []
 
-<images/gpl.jpg, id=284, 596.2275pt x 239.89626pt>
+<images/gpl.jpg, id=19, 596.2275pt x 239.89626pt>
 File: images/gpl.jpg Graphic file (type jpg)
  <use images/gpl.jpg>
 Package pdftex.def Info: images/gpl.jpg used on input line 25.
@@ -444,7 +426,7 @@ Package pdftex.def Info: images/gpl.jpg used on input line 25.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 28--42
+Underfull \hbox (badness 10000) in paragraph at lines 28--41
 
  []
 
@@ -458,15 +440,15 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.42 \begin{itemize}
+l.41 \begin{itemize}
                      [1 <./images/logo.png>]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 43.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 42.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 43.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 42.
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
@@ -482,41 +464,21 @@ Missing character: There is no ô in font cmr12!
 Missing character: There is no Ô in font cmr12!
 Missing character: There is no ¨ in font cmr12!
 Missing character: There is no Å in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
-Missing character: There is no Ô in font cmr12!
-Missing character: There is no ¨ in font cmr12!
-Missing character: There is no Å in font cmr12!
 Missing character: There is no Ô in font cmr12!
 Missing character: There is no ¨ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 
-Underfull \hbox (badness 10000) in paragraph at lines 47--60
+Underfull \hbox (badness 10000) in paragraph at lines 46--55
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 47--60
+Underfull \hbox (badness 10000) in paragraph at lines 46--55
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 47--60
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 47--60
+Underfull \hbox (badness 10000) in paragraph at lines 46--55
 
  []
 
@@ -528,17 +490,13 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [2 <./images/gpl.jpg>] (./input/Installation.tex
-Missing character: There is no Ô in font cmr12!
-Missing character: There is no ¨ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-
-Overfull \hbox (9.58858pt too wide) in paragraph at lines 9--10
+Overfull \hbox (9.58858pt too wide) in paragraph at lines 8--9
 []\OT1/cmr/m/n/12 Download zip folder of eCAD or clone it from https://github.c
 om/GreatDevelopers/eCAD 
  []
 
 
-Overfull \hbox (16.0727pt too wide) in paragraph at lines 22--23
+Overfull \hbox (16.0727pt too wide) in paragraph at lines 21--22
 []\OT1/cmr/bx/n/12 Downloading\OT1/cmr/m/n/12 : Down-load zip folder of eCAD fr
 om https://github.com/GreatDevelopers/eCAD 
  []
@@ -563,7 +521,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [3] (./input/Interface.tex
-<images/menubar.png, id=304, 1368.11125pt x 53.19875pt>
+<images/menubar.png, id=45, 1368.11125pt x 53.19875pt>
 File: images/menubar.png Graphic file (type png)
 
 <use images/menubar.png>
@@ -583,104 +541,109 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[5] <images/toolbar.png, id=326, 1366.10374pt x 39.14626pt>
+[5] <images/toolbar.png, id=68, 1366.10374pt x 39.14626pt>
 File: images/toolbar.png Graphic file (type png)
 
 <use images/toolbar.png>
-Package pdftex.def Info: images/toolbar.png used on input line 86.
+Package pdftex.def Info: images/toolbar.png used on input line 88.
 (pdftex.def)             Requested size: 450.43253pt x 12.90694pt.
- <images/newDrawing.jpg, id=327, 160.6pt x 160.6pt>
+ <images/newDrawing.jpg, id=69, 160.6pt x 160.6pt>
 File: images/newDrawing.jpg Graphic file (type jpg)
 
 <use images/newDrawing.jpg>
-Package pdftex.def Info: images/newDrawing.jpg used on input line 93.
+Package pdftex.def Info: images/newDrawing.jpg used on input line 95.
 (pdftex.def)             Requested size: 25.02573pt x 25.02507pt.
-
-<images/openDrawing.jpg, id=328, 160.6pt x 160.6pt>
+ <images/openDrawing.jpg, id=70, 160.6pt x 160.6pt>
 File: images/openDrawing.jpg Graphic file (type jpg)
 
 <use images/openDrawing.jpg>
-Package pdftex.def Info: images/openDrawing.jpg used on input line 97.
+Package pdftex.def Info: images/openDrawing.jpg used on input line 100.
 (pdftex.def)             Requested size: 25.02573pt x 25.02507pt.
 
-<images/saveDrawing.jpg, id=329, 160.6pt x 160.6pt>
+<images/saveDrawing.jpg, id=71, 160.6pt x 160.6pt>
 File: images/saveDrawing.jpg Graphic file (type jpg)
 
 <use images/saveDrawing.jpg>
-Package pdftex.def Info: images/saveDrawing.jpg used on input line 101.
+Package pdftex.def Info: images/saveDrawing.jpg used on input line 105.
 (pdftex.def)             Requested size: 25.02573pt x 25.02507pt.
- <images/cut.jpg, id=330, 160.6pt x 160.6pt>
+ <images/cut.jpg, id=72, 160.6pt x 160.6pt>
 File: images/cut.jpg Graphic file (type jpg)
 
 <use images/cut.jpg>
-Package pdftex.def Info: images/cut.jpg used on input line 105.
+Package pdftex.def Info: images/cut.jpg used on input line 110.
 (pdftex.def)             Requested size: 25.02573pt x 25.02507pt.
- <images/copy.jpg, id=331, 160.6pt x 160.6pt>
+ <images/copy.jpg, id=73, 160.6pt x 160.6pt>
 File: images/copy.jpg Graphic file (type jpg)
 
 <use images/copy.jpg>
-Package pdftex.def Info: images/copy.jpg used on input line 109.
+Package pdftex.def Info: images/copy.jpg used on input line 114.
 (pdftex.def)             Requested size: 25.02573pt x 25.02507pt.
- <images/paste.jpg, id=332, 160.6pt x 160.6pt>
+ <images/paste.jpg, id=74, 160.6pt x 160.6pt>
 File: images/paste.jpg Graphic file (type jpg)
 
 <use images/paste.jpg>
-Package pdftex.def Info: images/paste.jpg used on input line 113.
+Package pdftex.def Info: images/paste.jpg used on input line 118.
 (pdftex.def)             Requested size: 25.02573pt x 25.02507pt.
- <images/undo.jpg, id=333, 160.6pt x 160.6pt>
+ <images/undo.jpg, id=75, 160.6pt x 160.6pt>
 File: images/undo.jpg Graphic file (type jpg)
 
 <use images/undo.jpg>
-Package pdftex.def Info: images/undo.jpg used on input line 117.
+Package pdftex.def Info: images/undo.jpg used on input line 122.
 (pdftex.def)             Requested size: 25.02573pt x 25.02507pt.
- <images/redo.jpg, id=334, 160.6pt x 160.6pt>
+ <images/redo.jpg, id=76, 160.6pt x 160.6pt>
 File: images/redo.jpg Graphic file (type jpg)
 
 <use images/redo.jpg>
-Package pdftex.def Info: images/redo.jpg used on input line 121.
+Package pdftex.def Info: images/redo.jpg used on input line 126.
 (pdftex.def)             Requested size: 25.02573pt x 25.02507pt.
- <images/point.jpg, id=335, 160.6pt x 160.6pt>
+ <images/point.jpg, id=77, 160.6pt x 160.6pt>
 File: images/point.jpg Graphic file (type jpg)
 
 <use images/point.jpg>
-Package pdftex.def Info: images/point.jpg used on input line 126.
+Package pdftex.def Info: images/point.jpg used on input line 131.
 (pdftex.def)             Requested size: 25.02573pt x 25.02507pt.
- <images/line.jpg, id=336, 160.6pt x 160.6pt>
+ <images/line.jpg, id=78, 160.6pt x 160.6pt>
 File: images/line.jpg Graphic file (type jpg)
 
 <use images/line.jpg>
-Package pdftex.def Info: images/line.jpg used on input line 130.
+Package pdftex.def Info: images/line.jpg used on input line 135.
 (pdftex.def)             Requested size: 25.02573pt x 25.02507pt.
- <images/circle.jpg, id=337, 160.6pt x 160.6pt>
+ <images/circle.jpg, id=79, 160.6pt x 160.6pt>
 File: images/circle.jpg Graphic file (type jpg)
 
 <use images/circle.jpg>
-Package pdftex.def Info: images/circle.jpg used on input line 134.
+Package pdftex.def Info: images/circle.jpg used on input line 139.
 (pdftex.def)             Requested size: 25.02573pt x 25.02507pt.
- <images/ellipse.jpg, id=338, 160.6pt x 160.6pt>
+ <images/ellipse.jpg, id=80, 160.6pt x 160.6pt>
 File: images/ellipse.jpg Graphic file (type jpg)
 
 <use images/ellipse.jpg>
-Package pdftex.def Info: images/ellipse.jpg used on input line 138.
+Package pdftex.def Info: images/ellipse.jpg used on input line 143.
 (pdftex.def)             Requested size: 25.02573pt x 25.02507pt.
- <images/arc.jpg, id=339, 160.6pt x 160.6pt>
+ <images/arc.jpg, id=81, 160.6pt x 160.6pt>
 File: images/arc.jpg Graphic file (type jpg)
 
 <use images/arc.jpg>
-Package pdftex.def Info: images/arc.jpg used on input line 142.
+Package pdftex.def Info: images/arc.jpg used on input line 147.
 (pdftex.def)             Requested size: 25.02573pt x 25.02507pt.
- <images/text.jpg, id=340, 160.6pt x 160.6pt>
+ <images/text.jpg, id=82, 160.6pt x 160.6pt>
 File: images/text.jpg Graphic file (type jpg)
 
 <use images/text.jpg>
-Package pdftex.def Info: images/text.jpg used on input line 146.
+Package pdftex.def Info: images/text.jpg used on input line 151.
 (pdftex.def)             Requested size: 25.02573pt x 25.02507pt.
- <images/image.jpg, id=341, 160.6pt x 160.6pt>
+ <images/image.jpg, id=83, 160.6pt x 160.6pt>
 File: images/image.jpg Graphic file (type jpg)
 
 <use images/image.jpg>
-Package pdftex.def Info: images/image.jpg used on input line 150.
+Package pdftex.def Info: images/image.jpg used on input line 155.
 (pdftex.def)             Requested size: 25.02573pt x 25.02507pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -705,70 +668,62 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 [6 <./images/toolbar.png> <./images/newDrawing.jpg> <./images/openDrawing.jpg> 
 <./images/saveDrawing.jpg> <./images/cut.jpg> <./images/copy.jpg> <./images/pas
-te.jpg> <./images/undo.jpg> <./images/redo.jpg> <./images/point.jpg> <./images/
-line.jpg>] <images/drawingarea.png, id=350, 1371.1225pt x 770.88pt>
+te.jpg> <./images/undo.jpg> <./images/redo.jpg>]
+<images/drawingarea.png, id=96, 1371.1225pt x 770.88pt>
 File: images/drawingarea.png Graphic file (type png)
 
 <use images/drawingarea.png>
-Package pdftex.def Info: images/drawingarea.png used on input line 158.
+Package pdftex.def Info: images/drawingarea.png used on input line 163.
 (pdftex.def)             Requested size: 450.43253pt x 253.23845pt.
 
-<images/scriptingconsole.png, id=351, 237.88875pt x 335.2525pt>
+<images/scriptingconsole.png, id=97, 237.88875pt x 335.2525pt>
 File: images/scriptingconsole.png Graphic file (type png)
 
 <use images/scriptingconsole.png>
-Package pdftex.def Info: images/scriptingconsole.png used on input line 165.
+Package pdftex.def Info: images/scriptingconsole.png used on input line 170.
 (pdftex.def)             Requested size: 200.19054pt x 282.13707pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/document.png, id=352, 53.19875pt x 38.1425pt>
-File: images/document.png Graphic file (type png)
 
-<use images/document.png>
-Package pdftex.def Info: images/document.png used on input line 170.
-(pdftex.def)             Requested size: 25.02573pt x 17.94327pt.
- <images/browser.png, id=353, 56.21pt x 40.15pt>
+LaTeX Warning: File `images/drawing.png' not found on input line 175.
+
+
+! Package pdftex.def Error: File `images/drawing.png' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.175 ...width=0.05\textwidth]{images/drawing.png}
+                                                  
+? 
+<images/browser.png, id=98, 56.21pt x 40.15pt>
 File: images/browser.png Graphic file (type png)
-
-<use images/browser.png>
-Package pdftex.def Info: images/browser.png used on input line 174.
+ <use images/browser.png>
+Package pdftex.def Info: images/browser.png used on input line 179.
 (pdftex.def)             Requested size: 25.02573pt x 17.87556pt.
- <images/task.png, id=354, 54.2025pt x 37.13875pt>
-File: images/task.png Graphic file (type png)
 
-<use images/task.png>
-Package pdftex.def Info: images/task.png used on input line 178.
+<images/task.png, id=99, 54.2025pt x 37.13875pt>
+File: images/task.png Graphic file (type png)
+ <use images/task.png>
+Package pdftex.def Info: images/task.png used on input line 183.
 (pdftex.def)             Requested size: 25.02573pt x 17.14749pt.
- <images/loop-circular.png, id=355, 52.195pt x 42.1575pt>
+
+<images/loop-circular.png, id=100, 52.195pt x 42.1575pt>
 File: images/loop-circular.png Graphic file (type png)
 
 <use images/loop-circular.png>
-Package pdftex.def Info: images/loop-circular.png used on input line 182.
+Package pdftex.def Info: images/loop-circular.png used on input line 187.
 (pdftex.def)             Requested size: 25.02573pt x 20.21349pt.
 
-<images/play-circular.png, id=356, 52.195pt x 37.13875pt>
+<images/play-circular.png, id=101, 52.195pt x 37.13875pt>
 File: images/play-circular.png Graphic file (type png)
 
 <use images/play-circular.png>
-Package pdftex.def Info: images/play-circular.png used on input line 186.
+Package pdftex.def Info: images/play-circular.png used on input line 191.
 (pdftex.def)             Requested size: 25.02573pt x 17.80713pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -776,13 +731,22 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[7 <./images/circle.jpg> <./images/ellipse.jpg> <./images/arc.jpg> <./images/te
-xt.jpg> <./images/image.jpg> <./images/drawingarea.png>]
-<images/statusbar.png, id=363, 1370.11874pt x 19.07124pt>
+[7 <./images/point.jpg> <./images/line.jpg> <./images/circle.jpg> <./images/ell
+ipse.jpg> <./images/arc.jpg> <./images/text.jpg> <./images/image.jpg> <./images
+/drawingarea.png>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 18.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[8 <./images/scriptingconsole.png> <./images/browser.png> <./images/task.png> <
+./images/loop-circular.png> <./images/play-circular.png>]
+<images/statusbar.png, id=121, 1370.11874pt x 19.07124pt>
 File: images/statusbar.png Graphic file (type png)
 
 <use images/statusbar.png>
-Package pdftex.def Info: images/statusbar.png used on input line 193.
+Package pdftex.def Info: images/statusbar.png used on input line 198.
 (pdftex.def)             Requested size: 450.43253pt x 6.26965pt.
 )
 
@@ -791,16 +755,14 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[8 <./images/scriptingconsole.png> <./images/document.png> <./images/browser.pn
-g> <./images/task.png> <./images/loop-circular.png> <./images/play-circular.png
-> <./images/statusbar.png>] (./input/documents.tex
-<images/filenew.png, id=377, 1371.1225pt x 770.88pt>
+[9 <./images/statusbar.png>] (./input/documents.tex
+<images/filenew.png, id=129, 1371.1225pt x 770.88pt>
 File: images/filenew.png Graphic file (type png)
  <use images/filenew.png>
 Package pdftex.def Info: images/filenew.png used on input line 8.
 (pdftex.def)             Requested size: 350.33727pt x 196.96585pt.
 
-<images/toolnew.png, id=378, 1371.1225pt x 770.88pt>
+<images/toolnew.png, id=130, 1371.1225pt x 770.88pt>
 File: images/toolnew.png Graphic file (type png)
  <use images/toolnew.png>
 Package pdftex.def Info: images/toolnew.png used on input line 15.
@@ -812,22 +774,22 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[9 <./images/filenew.png> <./images/toolnew.png>]
-<images/filesave.png, id=390, 1371.1225pt x 770.88pt>
+[10 <./images/filenew.png> <./images/toolnew.png>]
+<images/filesave.png, id=144, 1371.1225pt x 770.88pt>
 File: images/filesave.png Graphic file (type png)
 
 <use images/filesave.png>
 Package pdftex.def Info: images/filesave.png used on input line 27.
 (pdftex.def)             Requested size: 350.33727pt x 196.96585pt.
 
-<images/savedialog.png, id=391, 1371.1225pt x 770.88pt>
+<images/savedialog.png, id=145, 1371.1225pt x 770.88pt>
 File: images/savedialog.png Graphic file (type png)
 
 <use images/savedialog.png>
 Package pdftex.def Info: images/savedialog.png used on input line 32.
 (pdftex.def)             Requested size: 350.33727pt x 196.96585pt.
 
-<images/toolsave.png, id=392, 1371.1225pt x 770.88pt>
+<images/toolsave.png, id=146, 1371.1225pt x 770.88pt>
 File: images/toolsave.png Graphic file (type png)
 
 <use images/toolsave.png>
@@ -843,15 +805,15 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[10 <./images/filesave.png> <./images/savedialog.png>]
-<images/fileopen.png, id=403, 1371.1225pt x 770.88pt>
+[11 <./images/filesave.png> <./images/savedialog.png>]
+<images/fileopen.png, id=158, 1371.1225pt x 770.88pt>
 File: images/fileopen.png Graphic file (type png)
 
 <use images/fileopen.png>
 Package pdftex.def Info: images/fileopen.png used on input line 49.
 (pdftex.def)             Requested size: 350.33727pt x 196.96585pt.
 
-<images/opendialog.png, id=404, 1371.1225pt x 770.88pt>
+<images/opendialog.png, id=159, 1371.1225pt x 770.88pt>
 File: images/opendialog.png Graphic file (type png)
 
 <use images/opendialog.png>
@@ -867,8 +829,8 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[11 <./images/toolsave.png> <./images/fileopen.png>]
-<images/toolopen.png, id=412, 1371.1225pt x 770.88pt>
+[12 <./images/toolsave.png> <./images/fileopen.png>]
+<images/toolopen.png, id=168, 1371.1225pt x 770.88pt>
 File: images/toolopen.png Graphic file (type png)
 
 <use images/toolopen.png>
@@ -881,8 +843,8 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[12 <./images/opendialog.png> <./images/toolopen.png>] (./input/entities.tex
-<images/drawmenu.png, id=421, 1371.1225pt x 770.88pt>
+[13 <./images/opendialog.png> <./images/toolopen.png>] (./input/entities.tex
+<images/drawmenu.png, id=177, 1371.1225pt x 770.88pt>
 File: images/drawmenu.png Graphic file (type png)
 
 <use images/drawmenu.png>
@@ -895,8 +857,8 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[13 <./images/drawmenu.png>]
-<images/entitytoolbar.png, id=431, 281.05pt x 36.135pt>
+[14 <./images/drawmenu.png>]
+<images/entitytoolbar.png, id=190, 281.05pt x 36.135pt>
 File: images/entitytoolbar.png Graphic file (type png)
 
 <use images/entitytoolbar.png>
@@ -917,7 +879,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[14 <./images/entitytoolbar.png>]
+[15 <./images/entitytoolbar.png>]
 File: images/arc.jpg Graphic file (type jpg)
  <use images/arc.jpg>
 Package pdftex.def Info: images/arc.jpg used on input line 90.
@@ -938,7 +900,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[15]
+[16]
 File: images/text.jpg Graphic file (type jpg)
  <use images/text.jpg>
 Package pdftex.def Info: images/text.jpg used on input line 126.
@@ -954,29 +916,29 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[16])
+[17])
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 18.0pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[17] (./input/selection.tex
-<images/mouseSelect.png, id=467, 1371.1225pt x 745.78625pt>
+[18] (./input/selection.tex
+<images/mouseSelect.png, id=228, 1371.1225pt x 745.78625pt>
 File: images/mouseSelect.png Graphic file (type png)
 
 <use images/mouseSelect.png>
 Package pdftex.def Info: images/mouseSelect.png used on input line 8.
 (pdftex.def)             Requested size: 250.24199pt x 136.11339pt.
 
-<images/multiple.png, id=468, 1371.1225pt x 742.775pt>
+<images/multiple.png, id=229, 1371.1225pt x 742.775pt>
 File: images/multiple.png Graphic file (type png)
 
 <use images/multiple.png>
 Package pdftex.def Info: images/multiple.png used on input line 13.
 (pdftex.def)             Requested size: 250.24199pt x 135.5638pt.
 
-<images/messsage.png, id=469, 1371.1225pt x 770.88pt>
+<images/messsage.png, id=230, 1371.1225pt x 770.88pt>
 File: images/messsage.png Graphic file (type png)
 
 <use images/messsage.png>
@@ -992,22 +954,22 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[18 <./images/mouseSelect.png> <./images/multiple.png>])
+[19 <./images/mouseSelect.png> <./images/multiple.png>])
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 18.0pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[19 <./images/messsage.png>] (./input/operations.tex)
+[20 <./images/messsage.png>] (./input/operations.tex)
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 18.0pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[20] (./input/actions.tex
-<images/togglegrig.png, id=497, 1371.1225pt x 770.88pt>
+[21] (./input/actions.tex
+<images/togglegrig.png, id=265, 1371.1225pt x 770.88pt>
 File: images/togglegrig.png Graphic file (type png)
 
 <use images/togglegrig.png>
@@ -1020,8 +982,8 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[21 <./images/togglegrig.png>]
-<images/togglescripting.png, id=506, 1371.1225pt x 770.88pt>
+[22 <./images/togglegrig.png>]
+<images/togglescripting.png, id=277, 1371.1225pt x 770.88pt>
 File: images/togglescripting.png Graphic file (type png)
 
 <use images/togglescripting.png>
@@ -1038,15 +1000,15 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[22 <./images/togglescripting.png>]
-<images/togglestatus.png, id=515, 1371.1225pt x 770.88pt>
+[23 <./images/togglescripting.png>]
+<images/togglestatus.png, id=286, 1371.1225pt x 770.88pt>
 File: images/togglestatus.png Graphic file (type png)
 
 <use images/togglestatus.png>
 Package pdftex.def Info: images/togglestatus.png used on input line 40.
 (pdftex.def)             Requested size: 350.33727pt x 196.96585pt.
 
-<images/toggletool.png, id=516, 1371.1225pt x 770.88pt>
+<images/toggletool.png, id=287, 1371.1225pt x 770.88pt>
 File: images/toggletool.png Graphic file (type png)
 
 <use images/toggletool.png>
@@ -1059,7 +1021,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[23 <./images/togglestatus.png> <./images/toggletool.png>]
+[24 <./images/togglestatus.png> <./images/toggletool.png>]
 (./input/scripting.tex
 Underfull \hbox (badness 10000) in paragraph at lines 1--2
 
@@ -1078,14 +1040,14 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[24] (./input/Dimensioning.tex
-<images/hdim.png, id=529, 1371.1225pt x 744.7825pt>
+[25] (./input/Dimensioning.tex
+<images/hdim.png, id=307, 1371.1225pt x 744.7825pt>
 File: images/hdim.png Graphic file (type png)
  <use images/hdim.png>
 Package pdftex.def Info: images/hdim.png used on input line 17.
 (pdftex.def)             Requested size: 400.38872pt x 217.48149pt.
 
-<images/vdim.png, id=530, 1370.11874pt x 748.7975pt>
+<images/vdim.png, id=308, 1370.11874pt x 748.7975pt>
 File: images/vdim.png Graphic file (type png)
  <use images/vdim.png>
 Package pdftex.def Info: images/vdim.png used on input line 30.
@@ -1097,8 +1059,8 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[25 <./images/hdim.png>]
-<images/radial.png, id=543, 1371.1225pt x 749.80125pt>
+[26 <./images/hdim.png>]
+<images/radial.png, id=325, 1371.1225pt x 749.80125pt>
 File: images/radial.png Graphic file (type png)
  <use images/radial.png>
 Package pdftex.def Info: images/radial.png used on input line 44.
@@ -1110,21 +1072,21 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[26 <./images/vdim.png> <./images/radial.png>]
+[27 <./images/vdim.png> <./images/radial.png>]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 18.0pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[27] (./input/snapping.tex
-<images/fsnap.png, id=557, 1371.1225pt x 744.7825pt>
+[28] (./input/snapping.tex
+<images/fsnap.png, id=341, 1371.1225pt x 744.7825pt>
 File: images/fsnap.png Graphic file (type png)
  <use images/fsnap.png>
 Package pdftex.def Info: images/fsnap.png used on input line 13.
 (pdftex.def)             Requested size: 400.38872pt x 217.48149pt.
 
-<images/gsnap.png, id=558, 1371.1225pt x 747.79375pt>
+<images/gsnap.png, id=342, 1371.1225pt x 747.79375pt>
 File: images/gsnap.png Graphic file (type png)
  <use images/gsnap.png>
 Package pdftex.def Info: images/gsnap.png used on input line 23.
@@ -1139,13 +1101,13 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[28 <./images/fsnap.png>] <images/esnap.png, id=572, 1371.1225pt x 744.7825pt>
+[29 <./images/fsnap.png>] <images/esnap.png, id=359, 1371.1225pt x 744.7825pt>
 File: images/esnap.png Graphic file (type png)
 
 <use images/esnap.png>
 Package pdftex.def Info: images/esnap.png used on input line 34.
 (pdftex.def)             Requested size: 400.38872pt x 217.48149pt.
- <images/csnap.png, id=573, 1371.1225pt x 745.78625pt>
+ <images/csnap.png, id=360, 1371.1225pt x 745.78625pt>
 File: images/csnap.png Graphic file (type png)
 
 <use images/csnap.png>
@@ -1155,7 +1117,7 @@ Package pdftex.def Info: images/csnap.png used on input line 41.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/msnap.png, id=574, 1371.1225pt x 744.7825pt>
+<images/msnap.png, id=361, 1371.1225pt x 744.7825pt>
 File: images/msnap.png Graphic file (type png)
  <use images/msnap.png>
 Package pdftex.def Info: images/msnap.png used on input line 47.
@@ -1167,20 +1129,23 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[29 <./images/gsnap.png> <./images/esnap.png>]
+[30 <./images/gsnap.png> <./images/esnap.png>]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 18.0pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[30 <./images/csnap.png> <./images/msnap.png>] (./input/help.tex
-<images/help.png, id=587, 1371.1225pt x 743.77875pt>
+[31 <./images/csnap.png> <./images/msnap.png>] (./input/help.tex
+<images/help.png, id=376, 1371.1225pt x 743.77875pt>
 File: images/help.png Graphic file (type png)
  <use images/help.png>
 Package pdftex.def Info: images/help.png used on input line 12.
 (pdftex.def)             Requested size: 450.43253pt x 244.33553pt.
 )
+
+Package lastpage Warning: Rerun to get the references right on input line 80.
+
 
 AED: lastpage setting LastPage
 
@@ -1189,32 +1154,43 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[31 <./images/help.png>]
+[32 <./images/help.png>]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 80.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 80.
  (./report.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 80.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 80.
-Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: 990F55AD111973B1AD52215C66012168;2981.
+
+
+Package rerunfilecheck Warning: File `report.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `report.out':
+(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
+(rerunfilecheck)             After:  08F98D5485C54874C7C5879A76BDA759;2981.
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 80.
  ) 
 Here is how much of TeX's memory you used:
- 7090 strings out of 493304
- 103216 string characters out of 6139871
- 188718 words of memory out of 5000000
- 10195 multiletter control sequences out of 15000+600000
- 10761 words of font info for 40 fonts, out of 8000000 for 9000
+ 6996 strings out of 493304
+ 101766 string characters out of 6139871
+ 187631 words of memory out of 5000000
+ 10117 multiletter control sequences out of 15000+600000
+ 6840 words of font info for 25 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 36i,12n,44p,523b,474s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,11n,44p,523b,474s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share
 /texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on report.pdf (34 pages, 1746227 bytes).
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on report.pdf (34 pages, 1745805 bytes).
 PDF statistics:
- 651 PDF objects out of 1000 (max. 8388607)
- 527 compressed objects within 6 object streams
- 188 named destinations out of 1000 (max. 500000)
- 682 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 445 PDF objects out of 1000 (max. 8388607)
+ 324 compressed objects within 4 object streams
+ 191 named destinations out of 1000 (max. 500000)
+ 261 words of extra memory for PDF output out of 10000 (max. 10000000)
 
